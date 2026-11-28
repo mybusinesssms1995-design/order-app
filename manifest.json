@@ -1,15 +1,15 @@
 {
-  "name": "Usha Hardware Order Store",
-  "short_name": "Order Store",
+  "name": "MA Traders Order Store",
+  "short_name": "MA Traders",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#0f172a",
-  "theme_color": "#0f172a",
+  "background_color": "#071120",
+  "theme_color": "#071120",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/869/869636.png",
+      "src": "https://mybusinesssms1995-design.github.io/order-app/Logo.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
