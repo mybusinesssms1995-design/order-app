@@ -1,4 +1,4 @@
-const CACHE_NAME = 'ma-traders-order-app-v2';
+const CACHE_NAME = 'ak-enterprise-ma-traders-v3';
 
 self.addEventListener('install', (event) => {
   self.skipWaiting();
